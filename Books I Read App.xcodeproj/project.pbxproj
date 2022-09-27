@@ -14,6 +14,7 @@
 		ED33E78028E1BDCF00DB4DAE /* Books_I_Read_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ED33E77E28E1BDCF00DB4DAE /* Books_I_Read_App.xcdatamodeld */; };
 		ED33E78228E1BDD100DB4DAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED33E78128E1BDD100DB4DAE /* Assets.xcassets */; };
 		ED33E78528E1BDD100DB4DAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED33E78328E1BDD100DB4DAE /* LaunchScreen.storyboard */; };
+		ED33E78D28E1C2A000DB4DAE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED33E78C28E1C2A000DB4DAE /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		ED33E78128E1BDD100DB4DAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED33E78428E1BDD100DB4DAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED33E78628E1BDD100DB4DAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED33E78C28E1C2A000DB4DAE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				ED33E77528E1BDCF00DB4DAE /* AppDelegate.swift */,
 				ED33E77728E1BDCF00DB4DAE /* SceneDelegate.swift */,
 				ED33E77928E1BDCF00DB4DAE /* ViewController.swift */,
+				ED33E78C28E1C2A000DB4DAE /* SecondViewController.swift */,
 				ED33E77B28E1BDCF00DB4DAE /* Main.storyboard */,
 				ED33E78128E1BDD100DB4DAE /* Assets.xcassets */,
 				ED33E78328E1BDD100DB4DAE /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				ED33E77A28E1BDCF00DB4DAE /* ViewController.swift in Sources */,
 				ED33E77628E1BDCF00DB4DAE /* AppDelegate.swift in Sources */,
 				ED33E78028E1BDCF00DB4DAE /* Books_I_Read_App.xcdatamodeld in Sources */,
+				ED33E78D28E1C2A000DB4DAE /* SecondViewController.swift in Sources */,
 				ED33E77828E1BDCF00DB4DAE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
